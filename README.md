@@ -18,10 +18,15 @@ Hi 👋, I'm Priyanka Maurya
 🛠️ Tech Stack
 
 Excel 
+
 Python
+
 Excel
+
 SQL
+
 Power BI
+
 ---
 
 📊 Data Analytics Skills
