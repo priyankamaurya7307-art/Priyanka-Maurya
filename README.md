@@ -1,4 +1,4 @@
-# Priyanka-Maur
+# Priyanka-Maurya
 Hi 👋, I'm Priyanka Maurya
 
 📊 Aspiring Data Analyst | Turning Data into Insights
